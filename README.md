@@ -28,4 +28,4 @@ Mobile engineer who has been shipping apps since 2017. I started on native Andro
 
 ### Get in touch
 
-📫 [noushadchullian@gmail.com](mailto:noushadchullian@gmail.com)
+📫 Open an issue or reach me through my GitHub profile.
